@@ -1,5 +1,3 @@
-<div align="center">
-
 ---
 
 # No Steal
@@ -7,7 +5,7 @@
 
 ---
 
-# Founded by
+# Fundado por
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=hardcorefactions&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=eugeniodevv&data=followers,repositories,stars,commits"></p>
 
