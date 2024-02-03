@@ -1,10 +1,10 @@
 <div align="center">
 
-<span style="font-family:Montserrat;font-size: 24px"><b>No Steal</b></span>
+<span style="font-family:Montserrat;font-size: 24px"><b>NetShield</b></span>
 <br>
 <img width="256px" height="256px" src="https://raw.githubusercontent.com/No-Steal/.github/main/images/logo.png" alt="logo">
 <br>
-No Steal es una API la cual contiene millones de datos de usuarios y es
+NetShield es una API la cual contiene millones de datos de usuarios y es
 proporcionada como un servicio de HaveIBeenPwned para usuarios de Minecraft.
 <br><br>
 
